@@ -1,0 +1,22 @@
+body { 
+   
+    background-color:lightpink ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    h1 { font-size:30px ;
+       text-align: center;
+       color: whitesmoke;
+    }
+    .taehyung {
+         color:whitesmoke;
+          font-size: 20px;
+          text-align: center;
+          font-family: Helvetica;
+    }
+.kim {
+    width: 300px;
+    height: 120px;
+    padding: 20px;
+    background-color: beige;
+    color:black;
+}
